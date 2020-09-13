@@ -1,3 +1,13 @@
+# TIC-TAC-TOE
+
+Juego tic tac toe, siguiendo el [tutorial](https://es.reactjs.org/tutorial/tutorial.html) descrito en la documentacion de REACT.
+
+**Demo del proyecto** https://oriananohemi.github.io/tic-tac-toe-react/
+
+<img src="./src/assets/Screenshot from 2020-09-12 22-22-08.png">
+<img src="./src/assets/Screenshot from 2020-09-12 22-22-24.png">
+<img src="./src/assets/Screenshot from 2020-09-12 22-22-36.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
