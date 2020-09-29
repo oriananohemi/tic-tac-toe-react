@@ -2,7 +2,7 @@
 
 Juego tic tac toe, siguiendo el [tutorial](https://es.reactjs.org/tutorial/tutorial.html) descrito en la documentacion de REACT.
 
-**Demo del proyecto** https://oriananohemi.github.io/tic-tac-toe-react/
+[Demo del proyecto](https://oriananohemi.github.io/tic-tac-toe-react/)
 
 <img src="https://github.com/oriananohemi/tic-tac-toe-react/blob/master/src/assets/Screenshot%20from%202020-09-12%2022-22-08.png">
 <img src="https://github.com/oriananohemi/tic-tac-toe-react/blob/master/src/assets/Screenshot%20from%202020-09-12%2022-22-24.png">
