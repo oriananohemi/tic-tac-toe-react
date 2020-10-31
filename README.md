@@ -4,6 +4,7 @@ Juego tic tac toe, siguiendo el [tutorial](https://es.reactjs.org/tutorial/tutor
 
 [Demo del proyecto](https://oriananohemi.github.io/tic-tac-toe-react/)
 
+
 <img src="https://github.com/oriananohemi/tic-tac-toe-react/blob/master/src/assets/Screenshot%20from%202020-09-12%2022-22-08.png">
 <img src="https://github.com/oriananohemi/tic-tac-toe-react/blob/master/src/assets/Screenshot%20from%202020-09-12%2022-22-24.png">
 <img src="https://github.com/oriananohemi/tic-tac-toe-react/blob/master/src/assets/Screenshot%20from%202020-09-12%2022-22-36.png">
